@@ -1,0 +1,23 @@
+{
+  "name": "getHackerNews",
+  "version": "0.0.0",
+  "description": "Juse a wee modle to help out with a project - gets hacker news every 5 mins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ijmccallum/HackerNewsNodeModule.git"
+  },
+  "keywords": [
+    "Hacker",
+    "news"
+  ],
+  "author": "Iain J McCallum <ijmccallum@hotmail.co.uk> (http://iainjmccallum.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ijmccallum/HackerNewsNodeModule/issues"
+  },
+  "homepage": "https://github.com/ijmccallum/HackerNewsNodeModule"
+}

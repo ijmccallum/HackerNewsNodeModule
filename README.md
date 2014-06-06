@@ -10,7 +10,7 @@ Just a wee module to help out with a project - grabs the most recent stuff from 
 The way I have it set up currently:
 
  * In middleware.js:  
-`var newsScrape = require('HackerNewsScrape');`   
+`var newsScrape = require('gethackernews');`   
  * In exports.initLocals:  
 `locals.hotnews = newsScrape.hotnews;`
 

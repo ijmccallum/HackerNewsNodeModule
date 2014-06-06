@@ -1,5 +1,5 @@
 {
-  "name": "getHackerNews",
+  "name": "gethackernews",
   "version": "0.0.0",
   "description": "Juse a wee modle to help out with a project - gets hacker news every 5 mins",
   "main": "index.js",
